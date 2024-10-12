@@ -1,0 +1,107 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerView</string>
+
+    <string name="news_a">
+        Civilization 7 PC Specs Revealed: Here are the Requirements for Minimum, Recommended, and Ultra Settings.
+        Publisher 2K Games and developer Firaxis Games have published Sid Meier’s Civilization 7 PC requirements ahead of its launch early next year.
+        The team behind the latest addition to the historically based 4X series detailed minimum,recommended, and ultra settings for PC users
+        in a post on X/Twitter. It’s an extensive list of everything players need to know before they plot a course for their grand global plans,
+        letting them know what they’ll need if they want to dive in when launch arrives in February. Although Civilization 7 is also scheduled to come to MacOS
+        and Linux/SteamOS, 2K says it doesn’t have requirements to share for these platforms “at this time.”
+    </string>
+
+    <string name="news_b">
+        Magic: The Gathering Developer Responds to Fears It’s Only Focused on Short-term Profits.
+        Magic: The Gathering is currently riding high, consistently breaking its own records as it continues to
+        grow into the most popular version of itself in its entire 31-year history. But ask some longtime players
+        about its “Universes Beyond” crossovers or the increased pace of new products in recent years and you’ll
+        hear a common fear being voiced: developer Wizards of the Coast, pushed by aggressive goals set by
+        parent company Hasbro, is only prioritizing short-term gains at the cost of the long-term sustainability of this game.
+    </string>
+
+    <string name="news_c">Tales of Graces F Dev Talks About Tales of the Abyss Remaster Possibilities and the Future of the Series.
+        Bandai Namco recently announced Tales of Graces f Remastered as the first title in the Tales Remastered
+        Project, celebrating the Tales of 30th anniversary. We both got to go hands-on with Tales of Graces f
+        Remastered and speak with the game’s producer, Yuki Ishikawa, who talked to us about the series’ future and the possibility of a Tales of Abyss Remake.
+        First, we asked why Tales of Graces f Remastered was chosen as the first title in the Tales of Remastered
+        Program. One, Graces f is one of the more beloved titles of Tales of, Ishikawa said. It’s especially heralded
+        for its battle system. Two, it was just “good timing to make this a remastered title.”
+    </string>
+
+
+    <string name="news_d" tools:ignore="StringEscaping">Joker: Folie à Deuxs Biggest Surprise Is a Repeat of a Controversial Marvel Moment.
+        In what is sure to be one of the more divisive releases of the year, Joker: Folie à Deux is now in theaters.
+        The sequel to the 2019 smash hit is once again directed by Todd Phillips, who doesn’t seem to be
+        enjoying as rapturous a reception this time around. IGN’s Siddhant Adlakha gave the film a 5/10 in his review
+        , and many other critics agree with him. The DC sequel has been criticized for its sluggish pace, unfocused tone,
+        poorly directed musical sequences, and for criminally underutilizing Lady Gaga, to the point that it makes
+        one wonder why they even bothered paying for her to be in the movie. But perhaps worst of all is how Joker 2’s
+        twist ending renders both this film and its predecessor kind of pointless.
+
+
+    </string>
+
+    <string name="news_e">Xbox Made The Right Call Skipping a PS5 Pro Competitor.
+        The PS5 Pro, with its jaw-dropping price tag, is now a known quantity after months of rumours and
+        speculation. But while I totally get the thinking behind mid-gen upgrades — console cycles are lengthy,
+        especially compared to other tech — the PS5 Pro is a really tough sell, even for the most passionate fan.
+        That’s why I firmly believe Microsoft has made the right call not to bother with its own PS5 Pro competitor.
+        The last time we had mid-gen systems in the PS4 Pro and the Xbox One X, 4K TVs were becoming much
+        more commonplace so an upgrade that supported this tech made total sense. Additionally, Microsoft
+        also had a weak console launch with 2013s Xbox One and so there was an opportunity to flip the
+        narrative by pushing out an upgrade. That’s exactly what happened, because the Xbox One X was a
+        fantastic system and arguably the one to go for compared to PS4 Pro, because it provided a bigger leap
+        from the base Xbox One and was ultimately more powerful than Sony’s offering. The One X certainly
+        made the back half of last-gen a much better place to be as an Xbox fan and a follower of the industry.
+    </string>
+
+    <string name="news_f">Halo Infinite Is Officially Getting a Third-Person Mode This November.
+        In some major (and pretty surprising) news for Halo fans, Halo: Infinite is finally getting a third-person mode this November.
+        343 Industries announced the news on Friday during a Forge panel at the 2024 Halo World Championship.
+        For those who arent at the event, the announcement was also posted on X/Twitter, including a bit of work-in-progress footage of third-person mode in action:
+        Experience a new way to play!
+        3rd Person Mode is coming to Halo Infinite this November ? pic.twitter.com/WkDkGLx8fF— Halo (@Halo) October 4, 2024
+        As fans will know, this marks the first time a third-person mode has ever been officially offered in a Halo game.
+        Senior community manager John "Unyshek" Junyszek and Skybox Labs senior software engineer Colin Cove offered a bit more information
+        at the Halo World Championship panel, saying theyll be starting with third-person Firefight mode in a future update, "but we also have the ability
+        to do in PvP and control it in Forge," per Cove.
+
+    </string>
+
+    <string name="news_g">Joy-Con vs. Nintendo Switch Pro Controller: Which Should You Buy?
+        The Nintendo Switch is a versatile machine that blends the experience of a handheld and console. While every console comes
+        with a pair of Joy-Con controllers, Nintendo also sells a Pro Controller that offers a more traditional gaming experience.
+        While both Switch controllers have their own appeal, you may find yourself asking which one is best for you.
+        Every Nintendo Switch comes with a pair of Joy-Con controllers attached, which includes both the left and right controller.
+        But if you want to pick up some additional Joy-Con for multiplayer games, need a replacement set,
+        or just want to mix and match with the dozens of awesome colors, then an additional set of Joy-Con retails for $79.99.
+    </string>
+
+    <string name="news_h">Zelda Fans Are Overlaying the Echoes of Wisdom Map With A Link to the Past, and Making Some Surprising Discoveries.
+        Now that The Legend of Zelda: Echoes of Wisdom is out, more and more players are fully exploring its top-down, toy-like, open world.
+        And theyve gradually been discovering a pretty cool secret about its map: it "links" up almost perfectly with the map from A Link to the Past.
+        More and more players have been sharing posts on social media comparing the maps of Echoes of Wisdom and A Link to the Past,
+        and have figured out that Echoes of Wisdom basically uses the same map from A Link to the Past… just expanded.
+        A number of major landmarks can still be found in the same spots as in Link to the Past, though theyve changed or aged seemingly with the passage of time.
+    </string>
+
+    <string name="news_i">Sword Art Online Developer Wants to Take the Series in a More Mature Direction
+        New entries of both the Sword Art Online anime and the games have consistently been released for more than ten years now.
+        On October 4th, both the newest anime season, Sword Art Online Alternative: Gun Gale Online II, and the newest game,
+        Sword Art Online: Fractured Daydream were released.
+        SAO: FD is already quite different from the previous in the video game series, but we had to ask: What’s next for the Sword Art Online video games?
+        Here’s what SAO: FD producer Shoehei Mogami and SAO game series producer Yosuke Futami had to say about the possibility of a more mature SAO game
+        and the MMORPG-style SAO game they know fans want.
+    </string>
+
+    <string name="news_j">NHL 25 - Review.
+        Every year I get my hopes up thinking, “This is it: This’ll be the year that EA’s NHL finally gets it together and delivers on its full potential,”
+        only to then spend dozens of hours playing a game that is almost fundamentally the same as the one I played the previous year.
+        There are rare exceptions to this; even though I had my issues with NHL 24, the Sustained Pressure System and Exhaustion Engine at least
+        added something new to the overall gameplay, and NHL 21’s Be a Pro Mode has become a staple since its introduction.
+        Unfortunately, NHL 25 isn’t one of those exceptions. Despite an overhauled Franchise Mode and updated AI,
+        this ultimately just feels like a shinier version of last year’s entry.
+    </string>
+
+
+</resources>
